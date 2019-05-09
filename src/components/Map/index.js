@@ -20,7 +20,7 @@ import Search from '../Search';
 import Directions from '../Directions';
 import Details from '../Details';
 
-Geocoder.init('AIzaSyDxyw0rY7a-_NDjnEJme5dWez19xEeqPr4');
+Geocoder.init('YOUR_KEY');
 
 export default class Map extends Component {
   state = {

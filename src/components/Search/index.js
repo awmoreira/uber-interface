@@ -17,7 +17,7 @@ export default class Search extends Component {
         placeholderTextColor="#333"
         onPress={onLocationSelected}
         query={{
-          key: 'AIzaSyDxyw0rY7a-_NDjnEJme5dWez19xEeqPr4',
+          key: 'YOUR_KEY',
           language: 'pt',
         }}
         textInputProps={{
